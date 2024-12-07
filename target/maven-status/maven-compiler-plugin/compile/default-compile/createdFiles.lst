@@ -1,0 +1,5 @@
+com\mycompany\studentmanagementapp\DBConnection.class
+com\mycompany\studentmanagementapp\StudentManagementApp.class
+com\mycompany\studentmanagementapp\MainApp.class
+com\mycompany\studentmanagementapp\Student.class
+com\mycompany\studentmanagementapp\StudentManager.class
